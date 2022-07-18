@@ -21,11 +21,10 @@ HTML, CSS and Javascript...
 
 ## 🔗**Reach Me at:**
 
-<a href="https://www.linkedin.com/in/rajrandive14/"><img src="Logos\icons8-linkedin-circled-96.png" width="50px"></a>
-<a href="https://twitter.com/_R_Randive_"><img src="Logos\icons8-twitter-circled-96.png" width="50px"></a>
-<a href="https://www.instagram.com/raj_xiv.v_/"><img src="Logos\icons8-instagram-96.png" width="50px"></a>
-<a href="https://twitter.com/_R_Randive_"><img src="Logos\icons8-gmail-96.png" width="50px"></a>
-</div>
+<a href="https://www.linkedin.com/in/rajrandive14/"><img src="Logos\icons8-linkedin-circled-96.png" alt= "Linkedin" width="50px"></a>
+<a href="https://twitter.com/_R_Randive_"><img src="Logos\icons8-twitter-circled-96.png" alt= "Twitter" width="50px"></a>
+<a href="https://www.instagram.com/raj_xiv.v_/"><img src="Logos\icons8-instagram-96.png" alt= "Instagram" width="50px"></a>
+<a href="mailto: randiveraj1405@gmail.com"><img src="Logos\icons8-gmail-96.png" alt= "Email" width="50px"></a>
 
 <br>
 <br>
