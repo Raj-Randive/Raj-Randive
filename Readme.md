@@ -36,16 +36,16 @@ HTML, CSS and Javascript...
 <br>
 
 
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raj-Randive&theme=radical&show_icons=true" /></a>
   <a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Randive&theme=radical&show_icons=true" /></a>
 </div>
 
+
 ---
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
