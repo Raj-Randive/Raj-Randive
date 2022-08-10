@@ -50,6 +50,6 @@ HTML, CSS and Javascript...
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
