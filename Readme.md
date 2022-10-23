@@ -22,7 +22,7 @@ HTML, CSS and Javascript...
 ## 🔗**Reach Me at:**
 
 <a href="https://www.linkedin.com/in/rajrandive14/"><img src="Logos/linkedin-circled-96.png" alt= "Linkedin" width="44px"></a>
-<a href="https://twitter.com/_R_Randive_"><img src="Logos/twitter-circled-96.png" alt= "Twitter" width="44px"></a>
+<a href="https://twitter.com/RajRandive_"><img src="Logos/twitter-circled-96.png" alt= "Twitter" width="44px"></a>
 <a href="https://www.instagram.com/raj_xiv.v_/"><img src="Logos/Instagram-96.png" alt= "Instagram" width="44px"></a>
 <a href="mailto: randiveraj1405@gmail.com"><img src="Logos/gmail-96.png" alt= "Email" width="44px"></a>
 
