@@ -17,54 +17,62 @@ HTML, CSS and Javascript...
 
 <br>
 
+<!-- ***************************************************************************************************************************************** -->
+
 <div align = "center">
 
-## 🔗**Reach Me at:**
-
-<a href="https://www.linkedin.com/in/rajrandive14/"><img src="./Logos/linkedin-circled-96.png" alt= "Linkedin" width="44px"></a>
-<a href="https://twitter.com/RajRandive_"><img src="./Logos/twitter-circled-96.png" alt= "Twitter" width="44px"></a>
-<a href="https://www.instagram.com/raj_xiv.v_/"><img src="./Logos/Instagram-96.png" alt= "Instagram" width="44px"></a>
-<a href="mailto: randiveraj1405@gmail.com"><img src="./Logos/gmail-96.png" alt= "Email" width="44px"></a>
-
-<br>
-
-<div align="Center">
-
-## 📊 GitHub Stats:
-
-<br>
-
-<!-- Heroku is no longer offering free plans -->
-<!-- [![Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Randive&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- [![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-Randive&theme=react-dark&bg_color=000000&color=FFBF00)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<p align = "center">
-  <a href="https://github.com/Raj-Randive"> 
-    <img alt="Raj's Github Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj-Randive&theme=react-dark&bg_color=000000&color=FFBF00&line=CB1C8D"/>
-  </a>
-</p>
-
-<br>
+  ## 📊 GitHub Stats:
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raj-Randive&theme=radical&show_icons=true" /></a>
-  <a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Randive&theme=radical&show_icons=true" /></a>
-</div>
+  <!-- **************************************** Activity Graph ********************************************* -->
+  <!-- Heroku is no longer offering free plans -->
+  <!-- [![Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Randive&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+  <!-- [![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-Randive&theme=react-dark&bg_color=000000&color=FFBF00)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
----
-
-<br>
-
-
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook"/>
+  <p align = "center">
+    <a href="https://github.com/Raj-Randive"> 
+      <img alt="Raj's Github Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Raj-Randive&theme=react-dark&bg_color=000000&color=FFBF00&line=CB1C8D"/>
     </a>
-</p>
+  </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  <br>
+
+
+  <!-- **************************************** Stats and Streak Cards ********************************************* -->
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raj-Randive&theme=radical&show_icons=true" /></a>
+    <a href="https://git.io/streak-stats"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Randive&theme=radical&show_icons=true" /></a>
+  </div><br>
+
+  ---
+  <br>
+
+  <!-- **************************************** Most Used Languages Card ********************************************* -->
+  <p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook"/>
+      </a>
+  </p>
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Randive&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+  <br>
+  <br>
+
+
+  <!-- **************************************** Reach-me-at Section ********************************************* -->
+  ---
+  ## 🔗**Reach Me at:**
+
+  <a href="https://www.linkedin.com/in/rajrandive14/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height=35/></a>&nbsp;
+  <a href="mailto:randiveraj1405@gmail.com?subject=Hey%20Raj"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height=35/></a>&nbsp;
+  <a href="https://twitter.com/RajRandive_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height=35/></a>&nbsp;
+  <a href="https://www.instagram.com/raj_xiv.v_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height=35></a>&nbsp;
+
+
+  <br>
+  
 </div>
