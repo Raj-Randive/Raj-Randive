@@ -1,8 +1,12 @@
 
 <h1 align="center"><strong> Hey there, I'm Raj Randive ! 👋</strong></h1>
-<a href="https://github.com/Raj-Randive"><img align= "right" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG" width='40%'></a>  
 
-<h1>🚀 About Me</h1>
+<h2>🚀 About Me</h2>
+
+---
+
+<br>
+  <a href="https://github.com/Raj-Randive"><img align= "right" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG" width='50%'></a>
 
   &#10148; Currently pursuing a B.Tech degree from Pandit Deendayal Energy University in computer science and engineering.  
   &#10148; I am a quick learner who is really passionate about coding and development. I also enjoy working with others and contributing to intriguing projects.  
@@ -16,7 +20,10 @@
 <br>
 
 
-# 💻 Tech Stack:
+<h2> 💻 Tech Stack:</h2>
+
+---
+
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,8 +55,9 @@
 
 <div align = "center">
   
-  # 📊 GitHub Stats:
+<h2> 📊 GitHub Stats:</h2>
 
+---
 
   <!-- **************************************** Activity Graph ********************************************* -->
   <!-- Heroku is no longer offering free plans -->
@@ -102,8 +110,10 @@
 
   <!-- **************************************** Reach-me-at Section ********************************************* -->
 
-  # 🔗**Reach Me at:**
+  <h2> 🔗Reach Me at:</h2>
 
+  ---
+  <br>
   <a href="https://www.linkedin.com/in/rajrandive14/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height=35/></a>&nbsp;
   <a href="mailto:randiveraj1405@gmail.com?subject=Hey%20Raj"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height=35/></a>&nbsp;
   <a href="https://twitter.com/RajRandive_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height=35/></a>&nbsp;
