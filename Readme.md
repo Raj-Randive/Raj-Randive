@@ -1,3 +1,8 @@
+<a href="https://github.com/Raj-Randive"><img align= "right" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
+
+<hr width = "100%">
+
+<br>
 
 <h1 align="center"><strong> Hey there, I'm Raj Randive ! 👋</strong></h1>
 
@@ -6,15 +11,11 @@
 ---
 
 <br>
-  <a href="https://github.com/Raj-Randive"><img align= "right" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG" width='50%'></a>
 
   &#10148; Currently pursuing a B.Tech degree from Pandit Deendayal Energy University in computer science and engineering.  
   &#10148; I am a quick learner who is really passionate about coding and development. I also enjoy working with others and contributing to intriguing projects.  
   &#10148; I'm currently working on my Web Development Skills and focusing on my DSA Skills.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
