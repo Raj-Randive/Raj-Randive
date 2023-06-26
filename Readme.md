@@ -1,8 +1,13 @@
-<a href="https://github.com/Raj-Randive"><img width="100%" align="center" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
-
-<br>
 
 <h1 align="center"><strong> Hey there, I'm Raj Randive !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h1></strong></h1>
+<!-- <a href="https://github.com/Raj-Randive"><img width="100%" align="center" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a> -->
+<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
+
+![Profile Visits](https://komarev.com/ghpvc/?username=Raj-Randive)
+![GitHub followers](https://img.shields.io/github/followers/Raj-Randive?style=social)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Raj-Randive}1212%2Fhit-counter)
+
+<br>
 
 <h2>🚀 About Me</h2>
 
@@ -15,8 +20,7 @@
   &#10148; I'm currently working on my Web Development Skills and focusing on my DSA Skills.
 
 <br>
-<br>
-<br>
+
 
 
 <h2> 💻 Tech Stack:</h2>
