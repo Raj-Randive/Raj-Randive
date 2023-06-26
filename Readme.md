@@ -1,10 +1,8 @@
-<a href="https://github.com/Raj-Randive"><img align= "right" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
-
-<hr width = "100%">
+<a href="https://github.com/Raj-Randive"><img align= "center" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
 
 <br>
 
-<h1 align="center"><strong> Hey there, I'm Raj Randive ! 👋</strong></h1>
+<h1 align="center"><strong> Hey there, I'm Raj Randive !  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h1></strong></h1>
 
 <h2>🚀 About Me</h2>
 
