@@ -1,4 +1,4 @@
-<a href="https://github.com/Raj-Randive"><img align= "center" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
+<a href="https://github.com/Raj-Randive"><img width="100%" align="center" src="https://miro.medium.com/max/828/0*FGD6BUzzZs1VJLuY.gif" alt="Tech-SVG"></a>
 
 <br>
 
